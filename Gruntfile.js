@@ -20,7 +20,7 @@
             jsonschema_docs_generator: {
                 custom_options: {
                     options: {
-                        base_url: 'http://localhost:8080/faostat-api/v1.0/'
+                        base_url: 'http://localhost:8080/api/v1.0/'
                     }
                 }
             }
