@@ -1,0 +1,56 @@
+{
+  "name": "grunt-jsonschema-docs-generator",
+  "description": "Grunt plugin to generate API documentation for REST web services described by a valid JSON Schema.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/geobricks/grunt-jsonschema-docs-generator",
+  "author": {
+    "name": "Guido Barbaglia",
+    "email": "guido.barbaglia@gmail.com",
+    "url": "http://geobricks.github.io/#team/guido"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geobricks/grunt-jsonschema-docs-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/geobricks/grunt-jsonschema-docs-generator/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/geobricks/grunt-jsonschema-docs-generator/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-curl": "^2.2.0",
+    "handlebars": "^3.0.3",
+    "jquery": "^2.1.4"
+  },
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-curl": "^2.2.0",
+    "handlebars": "^3.0.3",
+    "jquery": "^2.1.4"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
