@@ -1,0 +1,17 @@
+.container-fluid {
+  background-color: #337ab7;
+}
+
+.container-fluid h1 {
+  color: #fff;
+}
+
+.container-fluid h3 {
+  color: #fff;
+  margin-top: 16px;
+}
+
+.row {
+  padding-left: 1em;
+  padding-right: 1em;
+}
